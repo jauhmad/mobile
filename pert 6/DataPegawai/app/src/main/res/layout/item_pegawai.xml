@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/imgHeroes"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/txtHeroName"
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:layout_gravity="center_horizontal|left"
+            android:textAlignment="viewStart"
+            android:textColor="#3F51B5"
+            tools:text="Nama" />
+
+        <TextView
+            android:id="@+id/txtNIP"
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:layout_gravity="center_horizontal|left"
+            android:textAlignment="viewStart"
+            android:textColor="#3F51B5"
+            tools:text="NIP" />
+
+        <TextView
+            android:id="@+id/txtJabatan"
+            android:layout_width="wrap_content"
+            android:layout_height="29dp"
+            android:layout_gravity="center_horizontal|left"
+            android:textAlignment="viewStart"
+            android:textColor="#3F51B5"
+            tools:text="Jabatan" />
+    </LinearLayout>
+
+</LinearLayout>

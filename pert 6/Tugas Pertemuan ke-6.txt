@@ -1,0 +1,3 @@
+Tugas Pemrograman Mobile Pertemuan ke-6.
+1. Buat sebuah rancangan aplikasi fungsional dengan menggunakan komponen2 yang sudah dipelajari. Upload rancangan anda paling lambat hari Rabu ini, 14 Oktber 2020, pkl. 23.00.
+2. Buat aplikasi berdasarkan rancangan tersebut, upload hasilnya paling lambat hari Rabu, 21 Oktober 2020, pkl 17.00.
